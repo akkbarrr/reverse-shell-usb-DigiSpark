@@ -29,7 +29,7 @@ nc -lp 4444
 - Choose your victim OS, for this i used to run the script in windows
 - Choose __PowerShell #3 (Base64)__
 - And copy the script
-- Download and edit the reversel_shell_Digi.ino DigiSpark and edit the output in __("powershell -e ")__ and paste your own costume __Windows IP & PORT PowerShell(Base64) script,__ powershell script is hosted and compile and load reversel_shell_Digi.ino to your DigiSpark.
+- Download and edit the reverse_shell_Digi.ino DigiSpark and edit the output in __("powershell -e ")__ and paste your own costume __Windows IP & PORT PowerShell(Base64) script,__ powershell script is hosted and compile and load reverse_shell_Digi.ino to your DigiSpark.
 
 Plug in the DigiSpark and enjoy your reverse shell on the host machine!
 hope you all enjoy this script and as always use it responsibly!
